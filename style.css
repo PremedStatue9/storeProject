@@ -20,7 +20,7 @@ nav li {
 nav a, nav a:visited {
     text-decoration: none;
     width: 100%;
-    padding: 8px 0px;
+    padding: 8px 0;
     color: floralwhite;
 }
 nav a:hover,nav a.active {
@@ -78,7 +78,7 @@ nav li:hover .dropdown-content {
 .pricing{
     display: flex;
     justify-content:center;
-    font-family: Sans-serif;
+    font-family: Sans-serif, sans-serif;
     color:darkcyan;
     font-size:35px;
     border: 3px solid rgb(29, 96, 104)
@@ -102,7 +102,7 @@ nav li:hover .dropdown-content {
 }
 .productdesc{
     justify-content:center;
-    font-family: Sans-serif;
+    font-family: Sans-serif, sans-serif;
     color:darkcyan;
     font-size:15px;
     border: 1px solid rgb(70, 168, 172);
